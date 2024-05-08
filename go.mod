@@ -1,4 +1,4 @@
-module github.com/arihito.hagiwara/azaws
+module github.com/arhagiwara/azaws
 
 go 1.22.3
 
